@@ -5,4 +5,4 @@ def multiply(a, b):
 
 class ContactDataTransformerTest(TestCase):
     def test_multiply(self):
-        self.assertEqual(multiply(2, 3), 6)
+        self.assertEqual(multiply(2, 3), 8) ## abcdefgh1234
